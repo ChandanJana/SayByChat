@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "303148699927",
+    "firebase_url": "https://saybychat.firebaseio.com",
+    "project_id": "saybychat",
+    "storage_bucket": "saybychat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303148699927:android:8b3184f1afe2e6d0",
+        "android_client_info": {
+          "package_name": "in.co.sourav.saybychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303148699927-1ebrv6sseuns6rueerc74t4vfqdkrj17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.co.sourav.saybychat",
+            "certificate_hash": "53A318D872499DABE0734C0E2A7B09146B2E34EC"
+          }
+        },
+        {
+          "client_id": "303148699927-g8ngcr882d9ianbvturk2rs6hqcu6hh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-j9D5fxtoftJY5o-FeS4NRHIbzgHxjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303148699927-g8ngcr882d9ianbvturk2rs6hqcu6hh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
