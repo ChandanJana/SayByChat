@@ -1,3 +1,3 @@
 # SayByChat
 
-Online music Player
+Group chat using firebase
